@@ -10,7 +10,7 @@ The project demonstrates practical SQL skills used in Data Analytics, including 
 
 ## 🗄️ Database Information
 
-**Database:** PostgreSQL
+**Database:** Zepto SQL Project
 
 **Table Name:** `zepto`
 
@@ -38,6 +38,7 @@ The dataset contains information about products available on Zepto.
 ## 🎯 Business Problems Solved
 
 Business Problems Solved
+
 ✅ 1. Top 10 Best Value Products
 
 Identified products offering the highest discounts.
